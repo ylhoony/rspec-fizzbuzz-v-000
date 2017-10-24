@@ -7,5 +7,5 @@ def fizzbuzz(num)
     print "Buzz"
   else
     print num
-  end  
+  end
 end
